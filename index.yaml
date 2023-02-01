@@ -3,13 +3,13 @@ entries:
   couchbase-operator:
   - apiVersion: v2
     appVersion: 2.4.0
-    created: "2023-01-25T00:16:20.291705079Z"
+    created: "2023-02-01T17:47:16.996473535Z"
     description: A Helm chart to deploy the Couchbase Autonomous Operator for easily
       deploying, managing, and maintaining Couchbase Clusters. Couchbase Server is
       a NoSQL document database with a distributed architecture for performance, scalability,
       and availability. It enables developers to build applications easier and faster
       by leveraging the power of SQL with the flexibility of JSON.
-    digest: 0537b2f601f02bf3d763bd174cf235218bfe3c9decbf824aac89538268786308
+    digest: 39a2e1caa245c55d79a4386850d0706b7de393a6adc809caa5896757ccec4ed5
     home: https://couchbase.com
     icon: https://couchbase-partners.github.io/helm-charts/assets/img/CB_Logomark_220.png
     keywords:
@@ -31,6 +31,6 @@ entries:
     - https://docs.couchbase.com/operator/current/helm-setup-guide.html
     type: application
     urls:
-    - https://github.com/tahmmee/helm-charts/releases/download/couchbase-operator-2.40.0/couchbase-operator-2.40.0.tgz
-    version: 2.40.0
-generated: "2023-01-25T00:16:20.291712779Z"
+    - https://github.com/tahmmee/helm-charts/releases/download/couchbase-operator-2.40.1/couchbase-operator-2.40.1.tgz
+    version: 2.40.1
+generated: "2023-02-01T17:47:16.996484535Z"
